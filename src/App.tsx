@@ -1,13 +1,12 @@
-
-
-import './App.css'
+import CardComponent from "./components/CardComponent";
 
 function App() {
   
 
   return (
     <>
-     
+    
+     <CardComponent/>
     </>
   )
 }
